@@ -640,32 +640,32 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>177</real>
+											<real>1.28515625</real>
+											<real>141.55859375</real>
 										</array>
 										<array>
-											<real>42</real>
-											<real>177</real>
+											<real>32.140625</real>
+											<real>177.671875</real>
 										</array>
 										<array>
-											<real>42</real>
-											<real>0.0</real>
+											<real>21.56640625</real>
+											<real>-0.85546875</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>42</real>
-												<real>0.0</real>
+												<real>21.56640625</real>
+												<real>-0.85546875</real>
 											</array>
 											<array>
-												<real>42</real>
-												<real>177</real>
+												<real>32.140625</real>
+												<real>177.671875</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>177</real>
+												<real>1.28515625</real>
+												<real>141.55859375</real>
 											</array>
 											<array>
 												<real>0.0</real>
@@ -794,12 +794,12 @@
 											<real>0.0</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>92</real>
+											<real>3.1796875</real>
+											<real>72.40625</real>
 										</array>
 										<array>
-											<real>215</real>
-											<real>92</real>
+											<real>213.55859375</real>
+											<real>40.00390625</real>
 										</array>
 										<array>
 											<real>215</real>
@@ -814,12 +814,12 @@
 												<real>0.0</real>
 											</array>
 											<array>
-												<real>215</real>
-												<real>92</real>
+												<real>213.55859375</real>
+												<real>40.00390625</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>92</real>
+												<real>3.1796875</real>
+												<real>72.40625</real>
 											</array>
 											<array>
 												<real>0.0</real>
